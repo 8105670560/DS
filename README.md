@@ -1,3 +1,6 @@
-This project demonstrates various data structures and algorithms implemented in C. The focus is on fundamental data structures such as stacks, queues, linked lists, and trees. Each implementation is followed by examples for better understanding and usage.
+Data Structures and Algorithms (DSA) - LeetCode Solutions
 
+Overview
+
+This repository contains solutions to various Data Structures and Algorithms problems from LeetCode. The problems are solved using C programming language. The purpose of this project is to practice and demonstrate knowledge of DSA concepts including arrays, strings, linked lists, trees, stacks, queues, graphs, dynamic programming, and more.
 
